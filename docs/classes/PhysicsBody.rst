@@ -11,7 +11,7 @@ Object with collision.
 Methods
 #######
 ``addToCollision(...layers)``
---  Adds the object to one or many collision layers.
+--  Adds the object to one or more collision layers.
 
 ``removeFromCollision([...layers])``
 --  Removes the object from the specified layers.
